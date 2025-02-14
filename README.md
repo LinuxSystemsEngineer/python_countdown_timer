@@ -5,7 +5,7 @@
 ## Functionalities
 
 - **Easy to Use:** Simply enter the number of minutes for the countdown, and the timer does the rest.
-- **Cross-Platform Compatibility:** Works on both Windows and Unix-based systems with automatic screen clearing.
+- **Cross-Platform Compatibility:** Works on both Windows and Linux-based systems with automatic screen clearing.
 - **Real-Time Display:** The countdown is displayed in real-time with a format of MM:SS.
 - **Minimal Dependencies:** Only requires the built-in `os` and `time` modules.
 
