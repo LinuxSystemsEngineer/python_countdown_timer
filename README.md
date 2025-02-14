@@ -25,7 +25,7 @@ To install Python 3 on OpenSUSE-based distributions, use the following command:
 sudo zypper install python3
 ```
 
-### Ubuntu
+### Debian-based Distros
 To install Python 3 on Ubuntu, use the following command:
 
 ```sh
