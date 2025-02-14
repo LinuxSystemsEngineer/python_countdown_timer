@@ -29,8 +29,7 @@ sudo zypper install python3
 To install Python 3 on Ubuntu, use the following command:
 
 ```sh
-sudo apt update
-sudo apt install python3
+sudo apt update && sudo apt install python3 -y
 ```
 
 ## Usage
