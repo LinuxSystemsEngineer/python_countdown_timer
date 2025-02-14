@@ -26,7 +26,7 @@ sudo zypper install python3
 ```
 
 ### Debian-based Distros
-To install Python 3 on Ubuntu, use the following command:
+To install Python 3 on Debian-based distributions, use the following command:
 
 ```sh
 sudo apt update && sudo apt install python3 -y
