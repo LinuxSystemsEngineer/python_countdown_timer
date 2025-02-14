@@ -9,11 +9,40 @@
 - **Real-Time Display:** The countdown is displayed in real-time with a format of MM:SS.
 - **Minimal Dependencies:** Only requires the built-in `os` and `time` modules.
 
-## Usage
+## Installation
 
+### Redhat-based Distros
+To install Python 3 on Redhat-based distributions, use the following command:
+
+```sh
+sudo dnf install python3
+```
+
+### OpenSUSE-based Distros
+To install Python 3 on OpenSUSE-based distributions, use the following command:
+
+```sh
+sudo zypper install python3
+```
+
+### Ubuntu
+To install Python 3 on Ubuntu, use the following command:
+
+```sh
+sudo apt update
+sudo apt install python3
+```
+
+## Usage
 To use this countdown timer, clone the repository and run the script using Python 3:
 
-```bash
+```sh
 git clone https://github.com/yourusername/python_countdown_timer.git
 cd python_countdown_timer
 python3 countdown_timer.py
+```
+
+Follow the on-screen instructions to enter the desired number of minutes for the countdown.
+
+## Contributions
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
