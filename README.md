@@ -45,3 +45,8 @@ Follow the on-screen instructions to enter the desired number of minutes for the
 
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
+
+## Screenshot
+Here is a screenshot of the Python countdown timer running:
+
+![Python Countdown Timer](./img/20250213_python_countdown_timer.png)
