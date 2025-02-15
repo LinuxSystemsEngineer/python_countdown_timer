@@ -1,12 +1,12 @@
 # Python Countdown Timer
 
-**python_countdown_timer** is a simple yet effective countdown timer program written in Python. This tool allows users to set a countdown timer for a specified number of minutes and displays the remaining time in a clear and concise format. Once the countdown reaches zero, a "Timer Complete" message is displayed.
+**python_countdown_timer** is a simple yet effective countdown timer program written in Python. This tool allows end-users to set a countdown timer for a specified number of minutes and displays the remaining time clearly and concisely. Once the countdown reaches zero, a "Timer Complete" message is displayed.
 
 ## Functionalities
 
-- **Easy to Use:** Simply enter the number of minutes for the countdown, and the timer does the rest.
-- **Cross-Platform Compatibility:** Works on both Windows and Linux-based systems with automatic screen clearing.
-- **Real-Time Display:** The countdown is displayed in real-time with a format of MM:SS.
+- **Easy to Use:** Enter the countdown time, and the timer does the rest.
+- **Cross-Platform Compatibility:** Works on Windows and Linux-based systems with automatic screen clearing.
+- **Real-Time Display:** The countdown is in MM:SS format.
 - **Minimal Dependencies:** Only requires the built-in `os` and `time` modules.
 
 ## Installation
