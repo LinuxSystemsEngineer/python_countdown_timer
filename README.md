@@ -35,9 +35,19 @@ sudo apt update && sudo apt install python3 -y
 ## Usage
 To use this countdown timer, clone the repository and run the script using Python 3:
 
+clone the GitHub repository
+
 ```sh
-git clone https://github.com/yourusername/python_countdown_timer.git
+git clone https://github.com/LinuxSystemsEngineer/python_countdown_timer.git
+```
+
+change directories to your newly cloned GitHub repository
+```sh
 cd python_countdown_timer
+```
+
+run the python program
+```sh
 python3 countdown_timer.py
 ```
 
